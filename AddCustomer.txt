@@ -1,0 +1,37 @@
+ '*****************************************************************************
+
+'' ABC Automated Testing
+'' Copyright (c) 2019 ABC
+'' All Rights Reserved Worldwide
+'' Unauthorized Duplication or Distribution Prohibited
+'' *****************************************************************************
+'' FILENAME: adduser
+'' *****************************************************************************
+'' ABOUT THIS FILE 
+
+'' AUTHOR IDENTITY:
+
+'' Initials						Name/Company
+'' --------		 				-----------------------------------------
+'' rw 							Rick Wagonner ABC INC
+
+'' REVISION HISTORY:
+
+'' Date/Initials	 	Comments
+'' ---------					-------------------------------
+
+'' 02/20/2019  rw	Created for LoanApp 2.1
+
+
+''*****************************************
+''SCRIPT
+
+
+''Add Customer
+AddCustomer "Jessica", "Simpson", "BeverlyHills", "LosAngeles", "CA", "90003"
+	
+''Invalid First Name Customer
+AddCustomer "", "Pitt", "Seegals", "SanDiego", "CA", "125130"
+	
+''Invalid Last Name Customer
+AddCustomer "Monica", "", "Indiana", "SantaMonica", "CA", "95003"
