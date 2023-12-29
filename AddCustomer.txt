@@ -26,6 +26,11 @@
 ''*****************************************
 ''SCRIPT
 
+'' Add Customer
+Add Customer "Marihana", "Twain", "Pipeline", "Coshrane", "Ab", "32004"
+
+'' Add Customer
+AddCustomer "Brad", "Carpovski", "GlenHills", "Calgary", "AB", "50004"
 
 ''Add Customer
 AddCustomer "Jessica", "Simpson", "BeverlyHills", "LosAngeles", "CA", "90003"
