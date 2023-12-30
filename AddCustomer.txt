@@ -26,6 +26,14 @@
 ''*****************************************
 ''SCRIPT
 
+''Add Customer
+AddCustomer "Ezra", "Gordan", "Proud", "San Francisco", "CA", "90003"
+
+''Add Customer
+AddCustomer "Yahli", "Simpson", "PineHills", "LosAngeles", "CA", "90003"
+
+''Add Customer
+AddCustomer "Jonathan", "Simpson", "Montessory", "LosAngeles", "CA", "90003"
 
 ''Add Customer
 AddCustomer "Jessica", "Simpson", "BeverlyHills", "LosAngeles", "CA", "90003"
