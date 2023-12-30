@@ -27,6 +27,9 @@
 ''SCRIPT
 
 ''Add Customer
+AddCustomer "Mali", "Shrinam", "benji", "California", "CA", "90003"
+
+''Add Customer
 AddCustomer "Ezra", "Gordan", "Proud", "San Francisco", "CA", "90003"
 
 ''Add Customer
